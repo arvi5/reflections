@@ -7,7 +7,8 @@ we create a local repository i.e working directory on our machine
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
-staging area helps in having a bunch of files that are ready to commit.
+staging area helps in having a bunch of files that are ready to commit.Staging area is a helpful tool to make sure
+that your commits are only the thing that you actually meant to commit even though probably along the way,you did a lot of other things.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
@@ -32,6 +33,6 @@ the diagram the way we do?
 The result of merging two branches together is we can add the working feature of one branch into another and have the
 master branch with the error free code. 
 
-
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+When we manually do merges it notifies the user about the conflicts occurring in the merge 
