@@ -23,7 +23,8 @@ that never breaks always works. We can have a development branch where active wo
 How do the diagrams help you visualize the branch structure?
 
 Diagrams helps us to know the project structure clearly and looking at the diagram gives us more
-insights of the commits that are not visible until we make a new branch 
+insights of the commits that are not visible until we make a new branch. Using diagrams helps to keep track of which branches
+contains which commits. 
 
 
 
