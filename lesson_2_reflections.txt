@@ -3,17 +3,29 @@ What happens when you initialize a repository? Why do you need to do it?
 when we intialise a repositoy it starts syncing with the central respository
 
 What happens when you initialize a repository? Why do you need to do it?
+we create a local repository i.e working directory on our machine
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+staging area helps in having a bunch of files that are ready to commit.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+using git diff and git diff --staged commands we can check the commits we are making and be sure about them.
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+branches would be helpful when we are writing the experimental code/different piece of work. When the code works out we can merge to the master and branches helps 
+you keep a project organized especially when you are sharing the project publicly.You will have the master branch and that would be the production quality branch 
+that never breaks always works. We can have a development branch where active work is taking place on your project.Branches are not only good when you are collaborating publicly but also to collaborate with yourself
 
 How do the diagrams help you visualize the branch structure?
+
+Diagrams helps us to know the project structure clearly and looking at the diagram gives us more
+insights of the commits that are not visible until we make a new branch 
+
+
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
