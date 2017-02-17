@@ -26,10 +26,12 @@ Diagrams helps us to know the project structure clearly and looking at the diagr
 insights of the commits that are not visible until we make a new branch. Using diagrams helps to keep track of which branches
 contains which commits. 
 
-
-
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+The result of merging two branches together is we can add the working feature of one branch into another and have the
+master branch with the error free code. 
+
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
